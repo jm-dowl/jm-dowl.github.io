@@ -69,7 +69,7 @@ a.highlight:hover {
 .navbar-collapse .navbar-nav {
   float: none;
   margin: 0 auto;
-  text-align: right; /*CHANGED FROM CENTER */
+  text-align: center; /*CHANGED FROM RIGHT */
 }
 .navbar-collapse .navbar-nav > li {
   float: none;
