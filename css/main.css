@@ -228,6 +228,7 @@ a:hover {
   font-size: 26px;
   color: #18156e;
   text-align: center;
+  margin: 0 auto;
 }
 .text-msg {
   line-height: 1.7em;
